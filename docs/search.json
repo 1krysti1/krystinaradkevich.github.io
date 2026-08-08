@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view my full academic CV below!\nView CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My current research examines consumer behaviour in digital environments, with a particular interest in how individual differences shape the information generated, aggregated, and ultimately presented by digital platforms. I am interested in understanding when commonly used platform measures—such as ratings and recommendations may obscure meaningful consumer heterogeneity, and the implications of relying on these measures without considering how they are produced.\nMore broadly, I am interested in how these insights can be used to improve the design of digital platforms and AI systems. This includes developing more personalized and representative information systems, improving recommendation and ranking mechanisms, and considering consumer heterogeneity in the data used to train and evaluate AI models."
+  },
+  {
+    "objectID": "research.html#research-focus",
+    "href": "research.html#research-focus",
+    "title": "Research",
+    "section": "",
+    "text": "My current research examines consumer behaviour in digital environments, with a particular interest in how individual differences shape the information generated, aggregated, and ultimately presented by digital platforms. I am interested in understanding when commonly used platform measures—such as ratings and recommendations may obscure meaningful consumer heterogeneity, and the implications of relying on these measures without considering how they are produced.\nMore broadly, I am interested in how these insights can be used to improve the design of digital platforms and AI systems. This includes developing more personalized and representative information systems, improving recommendation and ranking mechanisms, and considering consumer heterogeneity in the data used to train and evaluate AI models."
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current Research",
+    "text": "Current Research\n\nConsumer Heterogeneity in Online Reviews: How Average Consumption Profiles Influence Evaluative Disagreement\nMaster’s Thesis\nSupervisor: Dr. Yulia Nevskaya\nThis project examines how differences in consumers’ prior consumption profiles influence disagreement in online ratings. Using a large-scale TripAdvisor dataset, I study how consumer heterogeneity shapes evaluative outcomes and what this means for the aggregate ratings displayed on digital platforms.\nMethods: Panel data methods, fixed-effects models, cluster-robust inference, large-scale data analysis in R.\nView Thesis\n\n\n\nLearning to Judge: The Emergence of Evaluative Expertise in Online Review Platforms\nResearch Project\nSupervisor: Dr. Erica Pimentel\nThis project examines how evaluative expertise develops through repeated acts of evaluation in online review platforms, where evaluation occurs outside traditional professional structures. We investigate whether and how reviewers’ evaluative behaviour changes as they accumulate experience, including changes in rating patterns, review depth, and the dimensions of product quality they consider.\nMethods: Longitudinal data analysis, fixed-effects models, natural language processing, and text analytics.\n\n\n\nExploring Potential Biases in Judicial Decision-Making\nResearch Assistant Project\nSupervisor: Dr. Alba Olivares Nadal\nThis project investigates potential disparities in judicial decision-making using large-scale court datasets. The research applies causal inference methods to examine differences in court outcomes and explores how data-driven methods can support more equitable decision-making.\nMethods: Propensity score matching, nearest-neighbour matching, causal inference, Python."
+  },
+  {
+    "objectID": "research.html#future-research",
+    "href": "research.html#future-research",
+    "title": "Research",
+    "section": "Future Research",
+    "text": "Future Research\nI am very passionate about solving real world problems and helping society. My future research aims to develop and apply artificial intelligence and machine learning methods to address socially important problems. I am particularly interested in research that goes beyond identifying disparities in existing systems to develop computational methods that can actively improve decision-making.\nI am particularly interested in the implications of data gaps for AI and algorithmic decision-making. When populations are unequally represented in the data used to develop algorithms, models may perform well on average while producing systematically poorer predictions or decisions for underrepresented groups.My future research will explore how mathematical and machine learning methods can identify these disparities and develop decision systems that account for heterogeneous populations more effectively."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Queen’s University, Smith School of Business\nAs Head Teaching Assistant for COMM 162 (Managerial Statistics), I supported 600+ undergraduate students in developing their understanding of statistical methods and their application to managerial decision-making.\nMy responsibilities included coordinating a team of seven teaching assistants, formulating and leading tutorials and exam review sessions, and hosting personalized office hours."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Queen’s University, Smith School of Business\nAs Head Teaching Assistant for COMM 162 (Managerial Statistics), I supported 600+ undergraduate students in developing their understanding of statistical methods and their application to managerial decision-making.\nMy responsibilities included coordinating a team of seven teaching assistants, formulating and leading tutorials and exam review sessions, and hosting personalized office hours."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Krystina Radkevich",
+    "section": "About Me",
+    "text": "About Me\nI am a quantitative researcher interested in artificial intelligence, digital platforms, consumer behaviour, and the use of data-driven methods to address socially important problems.\nMy research combines statistical modelling, machine learning, causal inference, and computational methods to study real-world decision-making."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Krystina Radkevich",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests lie at the intersection of consumer behaviour, digital platforms, artificial intelligence, and quantitative methods. I am particularly interested in understanding how individuals interact with and generate information within digital environments, and how these behaviours shape the data that platforms and AI systems ultimately rely upon.\n\nDigital Platforms, Online Reviews, and Reputation Systems — Understanding how consumer heterogeneity, reviewer behaviour, and platform experience shape online evaluations, and what this means for the ratings, reviews, overall rank, and measures of quality presented to consumers.\nHuman Behaviour in Digital Environments — Examining how differences across people influence evaluation, information generation, and decision-making, particularly when platforms aggregate heterogeneous individuals into common measures of quality.\nArtificial Intelligence and Algorithmic Decision-Making — Investigating how AI systems learn from human-generated data, how biases and differences in the underlying populations may be reflected in algorithmic outputs, and how these systems can be designed to support better decision-making.\nResponsible AI — Developing and applying quantitative approaches to understand and mitigate disparities in algorithmic systems, with particular interest in the representation of heterogeneous populations.\nComputational Social Science — Using large-scale behavioural data, causal inference, natural language processing, and machine learning to investigate social and organizational phenomena that are difficult to study using traditional data sources.\nAI and Data for Societal Impact — Applying quantitative and computational methods to socially important problems, particularly in areas such as healthcare and public policy."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Krystina Radkevich",
+    "section": "Education",
+    "text": "Education\nMaster of Science in Management (Quantitative Marketing Specialization)\nSmith School of Business, Queen’s University\n2025–2026\nBachelor of Science (Honours) in Mathematics\nQueen’s University\n2021–2025"
+  }
+]
