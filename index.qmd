@@ -1,18 +1,36 @@
 ---
-title: "Krystina Radkevich"
-subtitle: "Quantitative Researcher in AI and Digital Platforms"
+title: ""
+page-layout: full
 ---
 
-::: {.column width="35%"}
-![](krys.jpg){width=80%}
+::: {.hero}
+
+::: {.hero-text}
+
+# Hi, I'm
+# Krystina Radkevich.
+
+I am a quantitative researcher working at the intersection of human behaviour, digital platforms, artificial intelligence, and quantitative methods.
+
+[CV (PDF)](CVKrystinaRadkevich.pdf){.btn .btn-primary}
+[Research](research.qmd){.btn .btn-outline-primary}
+
 :::
 
+::: {.hero-image}
+
+![](krys.jpeg)
+
+:::
+
+:::
 
 ## About Me
 
 I am a quantitative researcher interested in artificial intelligence, digital platforms, consumer behaviour, and the use of data-driven methods to address socially important problems.
 
 My research combines statistical modelling, machine learning, causal inference, and computational methods to study real-world decision-making.
+
 
 ## Research Interests
 
@@ -24,11 +42,12 @@ My research interests lie at the intersection of **consumer behaviour, digital p
 
 - **Artificial Intelligence and Algorithmic Decision-Making** — Investigating how AI systems learn from human-generated data, how biases and differences in the underlying populations may be reflected in algorithmic outputs, and how these systems can be designed to support better decision-making.
 
-- **Responsible AI** — Developing and applying quantitative approaches to understand and mitigate disparities in algorithmic systems, with particular interest in the  representation of heterogeneous populations.
+- **Responsible AI** — Developing and applying quantitative approaches to understand and mitigate disparities in algorithmic systems, with particular interest in the representation of heterogeneous populations.
 
 - **Computational Social Science** — Using large-scale behavioural data, causal inference, natural language processing, and machine learning to investigate social and organizational phenomena that are difficult to study using traditional data sources.
 
 - **AI and Data for Societal Impact** — Applying quantitative and computational methods to socially important problems, particularly in areas such as healthcare and public policy.
+
 
 ## Education
 

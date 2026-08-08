@@ -1,0 +1,165 @@
+/*-- scss:defaults --*/
+
+$primary: #C45C7C;
+
+$font-family-sans-serif: "Avenir", "Helvetica Neue", Arial, sans-serif;
+
+$headings-font-family: "Avenir", "Helvetica Neue", Arial, sans-serif;
+
+$body-color: #2f3437;
+
+$link-color: #B84F70;
+
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.7;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  font-weight: 600;
+}
+
+h3 {
+  margin-top: 2rem;
+  font-weight: 600;
+}
+
+.navbar {
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.btn {
+  border-radius: 6px;
+  padding: 0.55rem 1rem;
+  font-weight: 500;
+}
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+body {
+  background-color: #fff9fb;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  padding: 5rem 6%;
+  min-height: 70vh;
+  background: #fff5f8;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h1 {
+  font-size: 4rem;
+  line-height: 1.05;
+  margin-bottom: 0.4rem;
+}
+
+.hero-text h1:last-of-type {
+  color: #c45c7c;
+}
+
+.hero-text p {
+  font-size: 1.25rem;
+  max-width: 650px;
+  margin-top: 2rem;
+}
+
+.hero-image {
+  flex: 1;
+  text-align: center;
+}
+
+.hero-image img {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 22px;
+  object-fit: cover;
+}
+
+.hero .btn {
+  margin-right: 0.75rem;
+  margin-top: 1rem;
+  padding: 0.7rem 1.2rem;
+}
+
+@media (max-width: 900px) {
+  .hero {
+    flex-direction: column;
+    padding: 3rem 1.5rem;
+  }
+
+  .hero-text h1 {
+    font-size: 2.8rem;
+  }
+}
+
+.research-page {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 2rem 5% 5rem 5%;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.project-card {
+  background: #ffffff;
+  border: 1px solid #f3dce4;
+  border-radius: 18px;
+  padding: 2rem;
+  box-shadow: 0 5px 18px rgba(100, 60, 75, 0.07);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 28px rgba(100, 60, 75, 0.12);
+}
+
+.project-card h3 {
+  color: #b84f70;
+  margin-top: 0;
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+.project-card p {
+  font-size: 0.96rem;
+  line-height: 1.65;
+}
+
+.future-research-card {
+  background: #fff1f5;
+  border: 1px solid #f2ccd8;
+  border-radius: 18px;
+  padding: 2.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 4rem;
+}
+
+@media (max-width: 950px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
