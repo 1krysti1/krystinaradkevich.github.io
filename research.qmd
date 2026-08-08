@@ -1,0 +1,51 @@
+---
+title: "Research"
+---
+
+## Research Focus
+
+My current research examines consumer behaviour in digital environments, with a particular interest in how individual differences shape the information generated, aggregated, and ultimately presented by digital platforms. I am interested in understanding when commonly used platform measures—such as ratings and recommendations may obscure meaningful consumer heterogeneity, and the implications of relying on these measures without considering how they are produced.
+
+More broadly, I am interested in how these insights can be used to improve the design of digital platforms and AI systems. This includes developing more personalized and representative information systems, improving recommendation and ranking mechanisms, and considering consumer heterogeneity in the data used to train and evaluate AI models.
+
+## Current Research
+
+### *Consumer Heterogeneity in Online Reviews: How Average Consumption Profiles Influence Evaluative Disagreement*
+
+**Master’s Thesis**\
+**Supervisor:** Dr. Yulia Nevskaya
+
+This project examines how differences in consumers’ prior consumption profiles influence disagreement in online ratings. Using a large-scale TripAdvisor dataset, I study how consumer heterogeneity shapes evaluative outcomes and what this means for the aggregate ratings displayed on digital platforms.
+
+**Methods:** Panel data methods, fixed-effects models, cluster-robust inference, large-scale data analysis in R.
+
+[View Thesis](thesiskr.pdf){.btn .btn-primary}
+
+------------------------------------------------------------------------
+
+### *Learning to Judge: The Emergence of Evaluative Expertise in Online Review Platforms*
+
+**Research Project**\
+**Supervisor:** Dr. Erica Pimentel
+
+This project examines how evaluative expertise develops through repeated acts of evaluation in online review platforms, where evaluation occurs outside traditional professional structures. We investigate whether and how reviewers' evaluative behaviour changes as they accumulate experience, including changes in rating patterns, review depth, and the dimensions of product quality they consider.
+
+**Methods:** Longitudinal data analysis, fixed-effects models, natural language processing, and text analytics.
+
+------------------------------------------------------------------------
+
+### Exploring Potential Biases in Judicial Decision-Making
+
+**Research Assistant Project**\
+**Supervisor:** Dr. Alba Olivares Nadal
+
+This project investigates potential disparities in judicial decision-making using large-scale court datasets. The research applies causal inference methods to examine differences in court outcomes and explores how data-driven methods can support more equitable decision-making.
+
+**Methods:** Propensity score matching, nearest-neighbour matching, causal inference, Python.
+
+
+## Future Research
+
+I am very passionate about solving real world problems and helping society. My future research aims to develop and apply artificial intelligence and machine learning methods to address socially important problems. I am particularly interested in research that goes beyond identifying disparities in existing systems to develop computational methods that can actively improve decision-making.
+
+I am particularly interested in the implications of data gaps for AI and algorithmic decision-making. When populations are unequally represented in the data used to develop algorithms, models may perform well on average while producing systematically poorer predictions or decisions for underrepresented groups.My future research will explore how mathematical and machine learning methods can identify these disparities and develop decision systems that account for heterogeneous populations more effectively.

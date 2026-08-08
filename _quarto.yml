@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources:
+    - "*.pdf"
+
+website:
+  title: "Krystina Radkevich"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo

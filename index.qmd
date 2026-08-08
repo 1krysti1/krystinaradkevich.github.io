@@ -1,0 +1,41 @@
+---
+title: "Krystina Radkevich"
+subtitle: "Quantitative Researcher in AI and Digital Platforms"
+---
+
+::: {.column width="35%"}
+![](krys.jpg){width=80%}
+:::
+
+
+## About Me
+
+I am a quantitative researcher interested in artificial intelligence, digital platforms, consumer behaviour, and the use of data-driven methods to address socially important problems.
+
+My research combines statistical modelling, machine learning, causal inference, and computational methods to study real-world decision-making.
+
+## Research Interests
+
+My research interests lie at the intersection of **consumer behaviour, digital platforms, artificial intelligence, and quantitative methods**. I am particularly interested in understanding how individuals interact with and generate information within digital environments, and how these behaviours shape the data that platforms and AI systems ultimately rely upon.
+
+- **Digital Platforms, Online Reviews, and Reputation Systems** — Understanding how consumer heterogeneity, reviewer behaviour, and platform experience shape online evaluations, and what this means for the ratings, reviews, overall rank, and measures of quality presented to consumers.
+
+- **Human Behaviour in Digital Environments** — Examining how differences across people influence evaluation, information generation, and decision-making, particularly when platforms aggregate heterogeneous individuals into common measures of quality.
+
+- **Artificial Intelligence and Algorithmic Decision-Making** — Investigating how AI systems learn from human-generated data, how biases and differences in the underlying populations may be reflected in algorithmic outputs, and how these systems can be designed to support better decision-making.
+
+- **Responsible AI** — Developing and applying quantitative approaches to understand and mitigate disparities in algorithmic systems, with particular interest in the  representation of heterogeneous populations.
+
+- **Computational Social Science** — Using large-scale behavioural data, causal inference, natural language processing, and machine learning to investigate social and organizational phenomena that are difficult to study using traditional data sources.
+
+- **AI and Data for Societal Impact** — Applying quantitative and computational methods to socially important problems, particularly in areas such as healthcare and public policy.
+
+## Education
+
+**Master of Science in Management (Quantitative Marketing Specialization)**  
+Smith School of Business, Queen’s University  
+2025–2026
+
+**Bachelor of Science (Honours) in Mathematics**  
+Queen’s University  
+2021–2025

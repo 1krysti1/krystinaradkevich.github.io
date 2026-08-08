@@ -1,0 +1,7 @@
+---
+title: "Curriculum Vitae"
+---
+
+You can view my full academic CV below!
+
+[View CV](CVKrystinaRadkevich.pdf){.btn .btn-primary}
