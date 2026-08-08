@@ -34,7 +34,7 @@ My research combines statistical modelling, machine learning, causal inference, 
 
 ## Research Interests
 
-My research interests lie at the intersection of **consumer behaviour, digital platforms, artificial intelligence, and quantitative methods**. I am particularly interested in understanding how individuals interact with and generate information within digital environments, and how these behaviours shape the data that platforms and AI systems ultimately rely upon.
+My research interests lie at the intersection of **human behaviour, digital platforms, artificial intelligence, and quantitative methods**. I am particularly interested in understanding how individuals interact with and generate information within digital environments, and how these behaviours shape the data that platforms and AI systems ultimately rely upon.
 
 - **Digital Platforms, Online Reviews, and Reputation Systems** — Understanding how consumer heterogeneity, reviewer behaviour, and platform experience shape online evaluations, and what this means for the ratings, reviews, overall rank, and measures of quality presented to consumers.
 
