@@ -17,6 +17,15 @@ website:
       - href: cv.qmd
         text: CV
 
+    right:
+      - icon: envelope
+        href: mailto:kradkev@icloud.com
+        aria-label: Email
+
+      - icon: linkedin
+        href: https://www.linkedin.com/in/krystinaradkevich/
+        aria-label: LinkedIn
+
 format:
   html:
     theme:
